@@ -85,7 +85,3 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 - **Email:** [dhruvjd008@gmail.com](mailto:dhruvjd008@gmail.com)
 - **LinkedIn:** [linkedin.com/in/dhruvjain-dev](https://www.linkedin.com/in/dhruvjain-dev/)
 - **GitHub:** [github.com/dHrUV0121](https://github.com/dHrUV0121)
-
-## 📄 License
-
-[MIT](https://choosealicense.com/licenses/mit/)
