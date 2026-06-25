@@ -66,6 +66,10 @@ export const metadata: Metadata = {
     },
   },
   category: "technology",
+  icons: {
+    icon: "/favicon.svg",
+    apple: "/apple-touch-icon.png",
+  },
 };
 
 type RootLayoutProps = {

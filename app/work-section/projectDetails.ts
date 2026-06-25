@@ -40,7 +40,7 @@ export const devProjects = [
     technologies: ["Python", "Google Gemini", "Streamlit"],
     github: "https://github.com/dHrUV0121/Video_Rag",
     demo: "https://github.com/dHrUV0121/Video_Rag",
-    image: require("./../../public/projects/vidquery-ai.png"),
+    image: require("./../../public/projects/image.png"),
     available: true,
   },
 ];

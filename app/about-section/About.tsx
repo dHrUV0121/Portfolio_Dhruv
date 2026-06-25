@@ -29,7 +29,7 @@ const About = () => {
             />
             <AnimatedBody
               text={
-                "Currently pursuing B.Tech in Computer Science & Engineering (AI) at KIET Group of Institutions with a GPA of 7.82, I combine academic knowledge with hands-on industry experience to deliver scalable, high-quality software."
+                "Graduated with a B.Tech in Computer Science & Engineering (Artificial Intelligence) from KIET Group of Institutions, achieving an overall CGPA of 7.82. Leveraging a strong academic background and practical industry experience, I develop scalable, reliable, and high-quality software solutions."
               }
             />
             <AnimatedBody
